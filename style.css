@@ -90,4 +90,7 @@ footer .footer {
   .article .desc {
     font-size: 18px;
   }
+  .row p {
+    font-size: 20px;
+  }
 }
