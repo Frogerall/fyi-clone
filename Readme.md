@@ -12,6 +12,22 @@ Visit the Fullstack Roadmap [here](https://roadmap.sh/full-stack).
 
 The source code for this project was crafted using HTML and CSS only.
 
+### Issues
+
+- Broken links
+
+### Features to be Added
+
+- More Content about Web Development
+
+- Fix Broken Hyperlink
+
+- Added a Working Pagination
+
+## Contributions
+
+Feel free to contribute to the project by forking it and submitting a pull request.
+
 ## Live Demo
 
 Explore the live demo [here](https://frogerall.github.io/fyi-clone).
