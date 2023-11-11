@@ -1,21 +1,26 @@
-#fyi-clone
+# FYI-Clone
 
-This is an activity to copy all of the pages on cs.fyi as an exercise to have a complete grasp on html & css.
+![FYI-Clone Screenshot](fyi-screenshot.jpeg)
 
-For more details you can visit Roadmap.sh and you can see different RoadMaps there...
+This project is an activity to replicate all of the pages on cs.fyi, serving as an exercise to solidify knowledge in HTML and CSS.
 
-This activity can be located on the Fullstack Roadmap under the html & css checkpoint.
+## Overview
 
-or you can visit here at this link
+For more details on similar activities, you can visit [Roadmap.sh](https://roadmap.sh) and explore different roadmaps. This particular activity is located on the Fullstack Roadmap under the HTML & CSS checkpoint.
 
-link: https://roadmap.sh/full-stack
+Visit the Fullstack Roadmap [here](https://roadmap.sh/full-stack).
 
-This source code was made possible using HTML and Css only!
+The source code for this project was crafted using HTML and CSS only.
 
-Live Demo Link: https://frogerall.github.io/fyi-clone
+## Live Demo
 
-For suggestion, comments & collaboration just send me a email here
+Explore the live demo [here](https://frogerall.github.io/fyi-clone).
+
+## Contact
+
+For suggestions, comments, or collaboration, feel free to reach out via email:
 
 Email: saliticoadrian@gmail.com
 
-Thats all thanks 🙌
+Thanks for checking it out! 🙌
+Frontend, Backend, DevOps, and everything in between.
